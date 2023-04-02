@@ -97,11 +97,11 @@
 
 再看看考研二战期间的顶级生产力：
 
-![anticorianderist-dairy-2020-10-07](https://github.com/Anticorianderist/blog/blob/main/support/figures/anticorianderist-dairy-2019-10-07.png)
+![anticorianderist-dairy-2020-10-07](https://github.com/Anticorianderist/blog/blob/main/support/figures/anticorianderist-dairy-2020-10-07.png)
 
-![anticorianderist-dairy-2020-10-24](https://github.com/Anticorianderist/blog/blob/main/support/figures/anticorianderist-dairy-2019-10-24.png)
+![anticorianderist-dairy-2020-10-24](https://github.com/Anticorianderist/blog/blob/main/support/figures/anticorianderist-dairy-2020-10-24.png)
 
-![anticorianderist-dairy-2020-12-24](https://github.com/Anticorianderist/blog/blob/main/support/figures/anticorianderist-dairy-2019-12-24.png)
+![anticorianderist-dairy-2020-12-24](https://github.com/Anticorianderist/blog/blob/main/support/figures/anticorianderist-dairy-2020-12-24.png)
 
 ### 3. 大师
 
