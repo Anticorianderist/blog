@@ -8,7 +8,7 @@
 
 ![jlu-female.jpg](https://github.com/Anticorianderist/blog/blob/main/support/figures/jlu-female.jpg)
 
-![jlu-male.jpg](https://github.com/Anticorianderist/blog/blob/main/support/figures/jlu-female.jpg)
+![jlu-male.jpg](https://github.com/Anticorianderist/blog/blob/main/support/figures/jlu-male.jpg)
 
 ![jlu-xingcheng.jpg](https://github.com/Anticorianderist/blog/blob/main/support/figures/jlu-xingcheng.jpg)
 
