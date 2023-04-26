@@ -49,14 +49,3 @@ Anticorianderist：致小镇做题家：语文篇（大一男女通用版）zhua
 你也许会问，这和我打游戏或逛淘宝有什么关系？
 
 **引申**：每个方程是你的各种约束条件，每个变量是你的各种资源，使方程成立是你的各种目标。在设立目标之后，要反思你成事的方程组是否正定、欠定或超定。
-
-**欢迎关注、订阅或联系**：
-
-- **知乎のAnticorianderist**：[知乎 - Anticorianderist](https://www.zhihu.com/people/Goldage_0527)
-- **不吃香菜の《从开心消消乐到算法导论》**：[从开心消消乐到算法导论](https://www.zhihu.com/column/c_1516479701878575104)
-- **不吃香菜の《青丝成雪记》**：[青丝成雪记](https://www.zhihu.com/column/c_1519263107284762625)
-- **不吃香菜の《书山有路》**：[书山有路](https://www.zhihu.com/column/c_1508526433945747456)
-- **不吃香菜の《影海泛舟》**：[影海泛舟](https://www.zhihu.com/column/c_1516916163129249792)
-- **不吃香菜の《思源致远》**：[思源致远](https://www.zhihu.com/column/c_1529809825407610880)
-- **不吃香菜の《天地交通》**：[天地交通](https://www.zhihu.com/column/c_1529810074112978944)
-- **聊天向のEmail**：lt0527@outlook.com
