@@ -9,8 +9,6 @@
 
 ## 0x02 听后感
 
-- [抱月入怀](https://youtu.be/znOB4GNUO7U)
-
 ## 0x03 观后感
 
 ## 0x04 随感
