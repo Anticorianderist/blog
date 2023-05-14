@@ -1,4 +1,4 @@
-# The ZERO2ONE.md of blog
+# The ZERO2ONE of blog
 
 ## 0x01 目标
 
