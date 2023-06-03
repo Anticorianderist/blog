@@ -102,24 +102,3 @@ A、B、C相互独立
 添加图片注释，不超过 140 字（可选）
 
 数学学到什么程度可以进行下一部分的学习了？3694 赞同 · 126 评论回答![img](https://picx.zhimg.com/4e42565c09ec33d4bd36c39f1140346c_720w.jpg?source=7e7ef6e2)
-
-## 八、一些杂七杂八的建议
-
-上一篇：
-
-Anticorianderist：致小镇做题家：语文篇（大一男女通用版）zhuanlan.zhihu.com/p/541547551
-
-下一篇：
-
-**虚位以待**：致小镇做题家：语文篇（大一男女通用版）
-
-**欢迎关注、订阅或联系**：
-
-- **知乎のAnticorianderist**：[知乎 - Anticorianderist](https://www.zhihu.com/people/Goldage_0527)
-- **不吃香菜の《从开心消消乐到算法导论》**：[从开心消消乐到算法导论](https://www.zhihu.com/column/c_1516479701878575104)
-- **不吃香菜の《青丝成雪记》**：[青丝成雪记](https://www.zhihu.com/column/c_1519263107284762625)
-- **不吃香菜の《书山有路》**：[书山有路](https://www.zhihu.com/column/c_1508526433945747456)
-- **不吃香菜の《影海泛舟》**：[影海泛舟](https://www.zhihu.com/column/c_1516916163129249792)
-- **不吃香菜の《思源致远》**：[思源致远](https://www.zhihu.com/column/c_1529809825407610880)
-- **不吃香菜の《天地交通》**：[天地交通](https://www.zhihu.com/column/c_1529810074112978944)
-- **聊天向のEmail**：lt0527@outlook.com
