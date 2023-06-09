@@ -1,4 +1,4 @@
-# The ZERO2ONE of blog
+# The Zero2One of blog
 
 ## 0x01 Goal
 

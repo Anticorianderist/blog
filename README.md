@@ -1,4 +1,4 @@
-# The README of blog
+# The ReadMe of blog
 
 此仓库是《青丝成雪记》。根据**输入信息流的类型**，文章分为读后感、听后感、观后感与随感；根据**否定之否定的阶段**，文章分为前尘、拂尘与同尘。
 
@@ -7,6 +7,7 @@
 ## 0x01 读后感
 
 - [随机漫步的傻瓜：极简概率论](https://github.com/Anticorianderist/blog/blob/main/src/1-read/fooled-by-randomness-the-very-simplified-probability-theory.md)
+- [呼兰河传：愚昧生悲凉，孤寂满清听](https://github.com/Anticorianderist/blog/blob/main/src/1-read/tales-of-hulan-river-desolation-with-stupidity-loneliness-for-listening.md)
 - [江南：重返时间的河流](https://github.com/Anticorianderist/blog/blob/main/src/1-read/the-south-of-the-yangtze-diving-into-the-river-of-time-again.md)
 
 ## 0x02 听后感
@@ -35,6 +36,7 @@
 
 ## 0x07 同尘
 
+- [凌晨三点、清晨六点与九点](https://github.com/Anticorianderist/blog/blob/main/src/7-dusting/369.md)
 - [一点点](https://github.com/Anticorianderist/blog/blob/main/src/7-dusting/a-little.md)
 - [返校一周，我又治好了我的精神内耗](https://github.com/Anticorianderist/blog/blob/main/src/7-dusting/after-a-week-back-to-school-i-cured-my-mental-internal-friction-again.md)
 - [岁末：一位简中互联网逃兵的杂乱自白](https://github.com/Anticorianderist/blog/blob/main/src/7-dusting/at-the-end-of-the-year-messy-confessions-of-a-zh-hans-internet-deserter.md)

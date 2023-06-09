@@ -6,10 +6,6 @@
 
 ## [你最庆幸自己读过什么书?]
 
-[Anticorianderist](https://www.zhihu.com/people/Goldage_0527)[]
-
-112 人赞同了该回答
-
 **《飘》，又名《乱世佳人》。**
 
 高三的时候，寝室一熄灯，我就开始啃这本大厚书。我右眼近视全拜《飘》所赐。中学期间，我倒也看过几本书，像《[假如给我三天光明](https://www.zhihu.com/search?q=假如给我三天光明&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A2512738596})》、《平凡的世界》、《[撒哈拉的故事](https://www.zhihu.com/search?q=撒哈拉的故事&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A2512738596})》等。我现在还记得某个周日的下午，我坐在宿舍的走廊里，从正午看到天黑，还是没把《平凡的世界》看完。

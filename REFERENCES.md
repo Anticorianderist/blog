@@ -1,4 +1,4 @@
-# The REFERENCES of blog
+# The References of blog
 
 1. [Bo Zeng《互联网的庸众》](http://bboczeng.blogspot.com/2013/02/blog-post.html)
 2. [塔勒布《随机漫步的傻瓜》](https://book.douban.com/subject/10773362/)
