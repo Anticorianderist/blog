@@ -27,6 +27,7 @@
 
 - [关于智商](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/about-iq.md)
 - [归因：定乎内外之分](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/attribution-determining-the-boundary-of-inward-and-outward.md)
+- [对我影响甚深的四本书](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/four-books.md)
 - [和解：求而不得的焦虑](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/reconciliation-the-anxiety-of-failure.md)
 - [在人生阴影中反刍](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/rumination-in-the-shadow.md)
 - [自卷之道](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/self-involution.md)
@@ -42,4 +43,5 @@
 - [岁末：一位简中互联网逃兵的杂乱自白](https://github.com/Anticorianderist/blog/blob/main/src/7-dusting/at-the-end-of-the-year-messy-confessions-of-a-zh-hans-internet-deserter.md)
 - [兔年快乐](https://github.com/Anticorianderist/blog/blob/main/src/7-dusting/happy-new-year-of-the-rabbit.md)
 - [我的一生](https://github.com/Anticorianderist/blog/blob/main/src/7-dusting/my-whole-life.md)
+- [走上文学道路](https://github.com/Anticorianderist/blog/blob/main/src/7-dusting/on-the-road-of-literature.md)
 - [游记：深圳——财气纵横之鹏城千里](https://github.com/Anticorianderist/blog/blob/main/src/7-dusting/travelogue-shenzhen-peng-cheng-the-most-moneyed-city.md)
