@@ -1,8 +1,8 @@
 # The ReadMe of blog
 
-此仓库是《青丝成雪记》。根据**输入信息流的类型**，文章分为读后感、听后感、观后感与随感；根据**否定之否定的阶段**，文章分为前尘、拂尘与同尘。
+此仓库是《青丝成雪记》。根据**输入信息流的类型**，文章分为读后感、听后感、观后感和随感；根据**否定之否定的阶段**，文章分为前尘、拂尘和同尘。
 
-横向地看，你可以读到最新版的我；纵向地看，你可以读到我的成长和变迁。《青丝成雪记》不会考虑读者是谁，是一种无差别的外宣。我有软肋，所以我的图文依然有所顾忌。在一些约束之下，我尽可能地“我以我笔写我心”，但也希望有朝一日，我可以彻彻底底地“我以我笔写我心”。我的**核心读者**应该会把《青丝成雪记》的每篇文章都读完吧？毕竟，我可是你们真正的光。
+横向地看，你可以读到最新版的我；纵向地看，你可以读到我的成长和变迁。《青丝成雪记》不会考虑读者是谁，是一种无差别的外宣。如果你读完了《青丝成雪记》所有的文章，请通过**Twitter**（https://twitter.com/Xingzhi_Lau）和我约会或面基，谢谢。
 
 ## 0x01 读后感
 
@@ -21,6 +21,7 @@
 
 ## 0x05 前尘
 
+- [逝者安息](https://github.com/Anticorianderist/blog/blob/main/src/5-dusted/rip.md)
 - [知乎：在吉林大学就读是怎样一番体验？](https://github.com/Anticorianderist/blog/blob/main/src/5-dusted/zhihu-jlu.md)
 
 ## 0x06 拂尘
@@ -28,11 +29,13 @@
 - [关于智商](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/about-iq.md)
 - [归因：定乎内外之分](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/attribution-determining-the-boundary-of-inward-and-outward.md)
 - [对我影响甚深的四本书](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/four-books.md)
+- [光](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/light.md)
 - [和解：求而不得的焦虑](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/reconciliation-the-anxiety-of-failure.md)
 - [在人生阴影中反刍](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/rumination-in-the-shadow.md)
 - [自卷之道](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/self-involution.md)
-- [知乎：认知体系](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/zhihu-cognitive-system.md)
+- [一些金句](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/some-useful-sentences.md)
 - [知乎：退学指南](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/zhihu-a-guide-of-dropping-out-of-university.md)
+- [知乎：认知体系](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/zhihu-cognitive-system.md)
 - [知乎：知易行难](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/zhihu-easier-known-than-done.md)
 
 ## 0x07 同尘
