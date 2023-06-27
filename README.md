@@ -34,6 +34,8 @@
 - [在人生阴影中反刍](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/rumination-in-the-shadow.md)
 - [自卷之道](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/self-involution.md)
 - [一些金句](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/some-useful-sentences.md)
+- [值得再读](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/worth-reading-one-more-time.md)
+- [值得一读](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/worth-reading-one-time.md)
 - [知乎：退学指南](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/zhihu-a-guide-of-dropping-out-of-university.md)
 - [知乎：认知体系](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/zhihu-cognitive-system.md)
 - [知乎：知易行难](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/zhihu-easier-known-than-done.md)
