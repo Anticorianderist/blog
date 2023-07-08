@@ -21,7 +21,7 @@
 
 ### 1. 躺平：955远不足
 
-![leon-excerpt](https://github.com/Anticorianderist/blog/blob/main/support/figures/leon-excerpt.png)
+![leon-excerpt.png](https://github.com/Anticorianderist/blog/blob/main/support/figures/leon-excerpt.png)
 
 从小到大，我听过许多的抱怨；我自己也输出过不少的负能量。听着沧桑老男人唱的[《山丘》](https://music.douban.com/subject/24847484/)矫情地感慨“听懂已是曲中人”，哪个伪文青不是呢？现在的我依旧觉得人生特别难，但与以往的难大相径庭。以往的难无非是“娶妻生子、买房买车、阶级固化”等“众难难”，而现在的难是“走自己的路、攀自己的珠穆朗玛峰”之“独难难”。与“独乐乐不如众乐乐”相反，众难难不如独难难。**虽然我的人生更难了，但那种难是明媚的难。**困难的底色从求索不得的悲观到胜天半子的豪情，其中最核心的改变是“**我成为了一个可以做到955的人**”。
 
@@ -31,7 +31,7 @@
 
 ### 2. 内卷：955甚有余
 
-![the-shawshank-redemption-excerpt](https://github.com/Anticorianderist/blog/blob/main/support/figures/the-shawshank-redemption-excerpt-excerpt.png)
+![the-shawshank-redemption-excerpt.png](https://github.com/Anticorianderist/blog/blob/main/support/figures/the-shawshank-redemption-excerpt-excerpt.png)
 
 别说上海交通大学计算机系，连吉林大学朝阳水院的理科试验班，卷王的比例也不低。与学习和人生体验交相融汇的大牛不同，有些人真的是愣卷，仿佛做题家思维写入了DNA。在[《肖申克的救赎》](https://movie.douban.com/subject/1292052/)里，Red用“institutionalized”这个词解释Brooks的自寻短见。我觉得，这个词用以解释做题家思维也非常妥帖。**学校是institution；应试教育是institutionalization；做题家成为了institutionalized的人，离开了考试和排名活不了。**
 

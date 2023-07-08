@@ -45,7 +45,7 @@
 
 大三有一门背多分课程。其课程内容以及实验多傻逼，我就不说了。最重要的是，任课老师极其认真负责，到什么地步呢？
 
-![logging-is-the-everest-of-undergraduates](https://github.com/Anticorianderist/blog/blob/main/support/figures/logging-is-the-everest-of-undergraduates.jpeg)
+![logging-is-the-everest-of-undergraduates.jpeg](https://github.com/Anticorianderist/blog/blob/main/support/figures/logging-is-the-everest-of-undergraduates.jpeg)
 
 我当初是16级；那个挂科学长重修了两次。不划重点，一本书全部需要背。我真的会挂科！我在考试周直接心态爆炸，“TMD狗学校，老子干啥不行，非得在小破吉读大五！”我搜集了一堆没有本科学位证如何转行的信息，比如考金融类和经济类的某些证书。但这门课（大三下）已经快接近尾声了，再忍忍吧。我没有挂科，考了70分。
 
