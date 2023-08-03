@@ -36,7 +36,7 @@ Anyway，亲亲还是很美好的。
 “庾信平生最萧瑟，暮年诗赋动江关”从来不是什么大器晚成的鸡汤，因为人生最鲜活的年月，错过了便是错过了。暮年，刘仨轻哼：
 
 > What if we rewrite the stars
-> 
+>
 > Say Rice's theorem was made to be wrong
 
 但what if始终只是if而已。
