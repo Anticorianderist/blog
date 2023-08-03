@@ -9,7 +9,7 @@
 ### 1. 读后感
 
 - [随机漫步的傻瓜：极简概率论](https://github.com/Anticorianderist/blog/blob/main/1-src/1-information-flow/1-read/fooled-by-randomness-the-very-simplified-probability-theory.md)
-- [呼兰河传：愚昧生悲凉，孤寂满清听](https://github.com/Anticorianderist/blog/blob/main/1-src/1-information-flow/1-read/tales-of-hulan-river-desolation-with-stupidity-loneliness-for-listening.md)
+- [呼兰河传：愚昧生悲凉，孤寂满清听](https://github.com/Anticorianderist/blog/blob/main/1-src/1-information-flow/1-read/tales-of-hulan-river-stupidity-with-desolation-loneliness-for-listening.md)
 - [江南：重返时间的河流](https://github.com/Anticorianderist/blog/blob/main/1-src/1-information-flow/1-read/the-south-of-the-yangtze-diving-into-the-river-of-time-again.md)
 
 ### 2. 听后感
