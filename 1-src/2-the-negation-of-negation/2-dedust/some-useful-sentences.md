@@ -5,6 +5,7 @@
 - 天行健，君子以自强不息。
 - 焦虑源于无能；抑郁产自孤独；爱治愈一切。
 - 社交关系的本质是基于相互吸引的利益互换。
+- 道不同，不相为谋。
 - 无视是最高的轻蔑。
 - `Happiness = Reality - Expectation`。
 - `Improvement = Pain = Expectation - Reality`。
