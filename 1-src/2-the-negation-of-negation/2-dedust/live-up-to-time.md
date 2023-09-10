@@ -46,6 +46,7 @@
 - [飲食男女 (1994)](https://movie.douban.com/subject/1291818/)
 - [千と千尋の神隠し (2001)](https://movie.douban.com/subject/1291561/)
 - [千年女優 (2001)](https://movie.douban.com/subject/1307394/)
+- [東京ゴッドファーザーズ (2003)](https://movie.douban.com/subject/1310177/)
 - [Sideways (2004)](https://movie.douban.com/subject/1291833/)
 - [The Bucket List (2007)](https://movie.douban.com/subject/1867345/)
 - [Mary and Max (2009)](https://movie.douban.com/subject/3072124/)
@@ -54,9 +55,9 @@
 
 ### 2. 值得再观
 
-- [Once Upon a Time in America (1984)](https://movie.douban.com/subject/1292262/)
-- [千年女優 (2001)](https://movie.douban.com/subject/1307394/)
-- [哔哩哔哩/留下来的花，有百般开法【Inmost】](https://www.bilibili.com/video/BV1sZ4y1f7TC/)
+- Once Upon a Time in America (1984)
+- 千年女優 (2001)
+- 哔哩哔哩/留下来的花，有百般开法【Inmost】
 
 ## 0x04 玩
 
