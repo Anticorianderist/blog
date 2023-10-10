@@ -10,8 +10,10 @@
 - [刘震云](https://zh.wikipedia.org/wiki/刘震云)[《一句顶一万句》](https://book.douban.com/subject/26877012/)
 - [王小波](https://zh.wikipedia.org/wiki/王小波)[《红拂夜奔》](https://book.douban.com/subject/27037158/)
 - [钱锺书](https://zh.wikipedia.org/wiki/钱锺书)[《围城》](https://book.douban.com/subject/27070488/)
+- [朱光潜](https://zh.wikipedia.org/wiki/朱光潜)[《给青年的十二封信》](https://book.douban.com/subject/28003156/)
 - [刘和平](https://zh.wikipedia.org/wiki/刘和平_(剧作家))[《大明王朝1566》](https://book.douban.com/subject/3071976/)
 - [萧红](https://zh.wikipedia.org/wiki/萧红)[《呼兰河传》](https://book.douban.com/subject/30227138/)
+- [陈丹青](https://zh.wikipedia.org/wiki/陈丹青)[《荒废集》](https://book.douban.com/subject/3333989/)
 - [Italo Calvino](https://it.wikipedia.org/wiki/Italo_Calvino)[《树上的男爵》](https://book.douban.com/subject/34431931/)
 - [格非](https://zh.wikipedia.org/wiki/格非)[《江南》三部曲](https://book.douban.com/subject/34461199/)
 - Italo Calvino[《不存在的骑士》](https://book.douban.com/subject/34661992/)
@@ -42,15 +44,22 @@
 ### 1. 值得一观
 
 - [Once Upon a Time in America (1984)](https://movie.douban.com/subject/1292262/)
+- [Dead Poets Society (1989)](https://movie.douban.com/subject/1291548/)
+- [Scent of a Woman (1992)](https://movie.douban.com/subject/1298624/)
 - [霸王别姬 (1993)](https://movie.douban.com/subject/1291546/)
 - [飲食男女 (1994)](https://movie.douban.com/subject/1291818/)
+- [Love Letter (1995)](https://movie.douban.com/subject/1292220/)
 - [千と千尋の神隠し (2001)](https://movie.douban.com/subject/1291561/)
 - [千年女優 (2001)](https://movie.douban.com/subject/1307394/)
 - [東京ゴッドファーザーズ (2003)](https://movie.douban.com/subject/1310177/)
 - [Sideways (2004)](https://movie.douban.com/subject/1291833/)
+- [Perfume: The Story of a Murderer (2006)](https://movie.douban.com/subject/1760622/)
 - [The Bucket List (2007)](https://movie.douban.com/subject/1867345/)
+- [Revolutionary Road (2008)](https://movie.douban.com/subject/2037012/)
 - [Mary and Max (2009)](https://movie.douban.com/subject/3072124/)
+- [一代宗師 (2013)](https://movie.douban.com/subject/3821067/)
 - [Heidi (2015)](https://movie.douban.com/subject/25958717/)
+- [كفرناحوم (2018)](https://movie.douban.com/subject/30170448/)
 - [哔哩哔哩/留下来的花，有百般开法【Inmost】](https://www.bilibili.com/video/BV1sZ4y1f7TC/)
 
 ### 2. 值得再观
