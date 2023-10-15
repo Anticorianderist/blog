@@ -39,5 +39,6 @@
 
 - [一点点](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/3-dusting/a-little.md)
 - [岁末：一位简中互联网逃兵的杂乱自白](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/3-dusting/at-the-end-of-the-year-messy-confessions-of-a-zh-hans-internet-deserter.md)
+- [秋天的SJTU Walk](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/3-dusting/fall-sjtu-walk.md)
 - [兔年快乐](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/3-dusting/happy-new-year-of-the-rabbit.md)
 - [游记：深圳——财气纵横之鹏城千里](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/3-dusting/travelogue-shenzhen-peng-cheng-the-most-moneyed-city.md)
