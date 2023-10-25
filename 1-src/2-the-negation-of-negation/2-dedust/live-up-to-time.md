@@ -73,6 +73,6 @@
 ### 1. 值得一玩
 
 - [Linelight](https://www.douban.com/game/26994631/)
-- [ゼルダの伝説 ティアーズ オブ ザ キングダム](https://www.douban.com/game/34430168/)
+- [ゼルダの伝説 ブレス オブ ザ ワイルド](https://www.douban.com/game/26817171/)
 
 ### 2. 值得再玩
