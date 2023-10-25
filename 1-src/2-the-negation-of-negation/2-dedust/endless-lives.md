@@ -7,7 +7,7 @@
 3. [哔哩哔哩/一食纪](https://www.bilibili.com/video/BV1aS4y187yD/)
 4. [李玟](https://weibo.com/cocolee117)
 5. [微博/红烧土豆叶](https://weibo.com/u/6037696062)
-6. [冯岩岩]((https://github.com/Anticorianderist/blog/blob/main/2-spt/figures/fengyanyan.jpg))
+6. [冯岩岩](https://github.com/Anticorianderist/blog/blob/main/2-spt/figures/fengyanyan.jpg)
 7. [程浩](https://www.zhihu.com/people/cheng-hao-81)
 8. [毛星云](https://www.zhihu.com/people/mao-xing-yun)
 9. [毛洪涛](https://www.zhihu.com/topic/21528860/)
