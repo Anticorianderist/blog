@@ -26,6 +26,8 @@
 - [古华](https://zh.wikipedia.org/wiki/古华)[《芙蓉镇》](https://book.douban.com/subject/36243023/)
 - [Ray Huang](https://en.wikipedia.org/wiki/Ray_Huang)[《万历十五年》](https://book.douban.com/subject/36295436/)
 - [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)[《一九八四》](https://book.douban.com/subject/3815131/)
+- [知乎/我的一生](https://zhuanlan.zhihu.com/p/187352456)
+- [知乎/讲讲他的故事：从职高到MIT计算机博士录取](https://zhuanlan.zhihu.com/p/360390223)
 
 ### 2. 值得再读
 

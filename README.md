@@ -24,11 +24,9 @@
 
 ### 2. 拂尘
 
-- [退学指南](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/2-dedust/a-guide-of-dropping-out-of-university.md)
 - [归因：定乎内外之分](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/2-dedust/attribution-determining-the-boundary-of-inward-and-outward.md)
 - [认知体系](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/2-dedust/cognitive-system.md)
 - [双标：辩乎荣辱之境](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/2-dedust/double-standards-distinguishing-between-honor-and-disgrace.md)
-- [知易行难](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/2-dedust/easier-known-than-done.md)
 - [生生不息](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/2-dedust/endless-lives.md)
 - [不负光阴](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/2-dedust/live-up-to-time.md)
 - [和解：求而不得的焦虑](https://github.com/Anticorianderist/blog/blob/main/1-src/2-the-negation-of-negation/2-dedust/reconciliation-the-anxiety-of-failure.md)
