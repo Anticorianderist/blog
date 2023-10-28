@@ -3,16 +3,46 @@
 ## 0x01 逝者安息
 
 1. [今 敏](http://old.lifeweek.com.cn//2013/0827/42193.shtml)
-2. [齐齐哈尔中学体育馆坍塌事件](https://chinadigitaltimes.net/chinese/698645.html)
-3. [哔哩哔哩/一食纪](https://www.bilibili.com/video/BV1aS4y187yD/)
-4. [李玟](https://weibo.com/cocolee117)
-5. [微博/红烧土豆叶](https://weibo.com/u/6037696062)
-6. [冯岩岩](https://github.com/Anticorianderist/blog/blob/main/2-spt/figures/fengyanyan.jpg)
-7. [程浩](https://www.zhihu.com/people/cheng-hao-81)
-8. [毛星云](https://www.zhihu.com/people/mao-xing-yun)
-9. [毛洪涛](https://www.zhihu.com/topic/21528860/)
+2. [齐齐哈尔市第三十四中学体育馆坍塌事故](https://chinadigitaltimes.net/chinese/698645.html)
+3. [冯岩岩](https://github.com/Anticorianderist/blog/blob/main/2-spt/figures/fengyanyan.jpg)
+4. [姚贝娜](https://weibo.com/bellamusic)
+5. [李玟](https://weibo.com/cocolee117)
+6. [微博/红烧土豆叶](https://weibo.com/u/6037696062)
+7. [哔哩哔哩/一食纪](https://www.bilibili.com/video/BV1aS4y187yD/)
+8. [程浩](https://www.zhihu.com/people/cheng-hao-81)
+9. [毛星云](https://www.zhihu.com/people/mao-xing-yun)
+10. [毛洪涛](https://www.zhihu.com/topic/21528860/)
 
-## 0x02 生者如斯
+## 0x02 Do Not Go Gentle into That Good Night
+
+> Do not go gentle into that good night,  
+> Old age should burn and rave at close of day;  
+> Rage, rage against the dying of the light.
+>
+> Though wise men at their end know dark is right,  
+> Because their words had forked no lightning they  
+> Do not go gentle into that good night.
+>
+> Good men, the last wave by, crying how bright  
+> Their frail deeds might have danced in a green bay,  
+> Rage, rage against the dying of the light.
+>
+> Wild men who caught and sang the sun in flight,  
+> And learn, too late, they grieved it on its way,  
+> Do not go gentle into that good night.
+>
+> Grave men, near death, who see with blinding sight  
+> Blind eyes could blaze like meteors and be gay,  
+> Rage, rage against the dying of the light.
+>
+> And you, my father, there on the sad height,  
+> Curse, bless, me now with your fierce tears, I pray.  
+> Do not go gentle into that good night.  
+> Rage, rage against the dying of the light.
+>
+> @ Dylan Marlais Thomas "Do not go gentle into that good night"
+
+## 0x03 生者如斯
 
 1. [東京ゴッドファーザーズ (2003)](https://movie.douban.com/subject/1310177/)
 2. [哔哩哔哩/《不被大风吹倒》：莫言写给青年朋友的一封信](https://www.bilibili.com/video/BV1A44y1u7PF/)
