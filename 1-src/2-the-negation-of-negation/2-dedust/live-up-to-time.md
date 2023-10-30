@@ -11,12 +11,14 @@
 - [朱光潜](https://zh.wikipedia.org/wiki/朱光潜)[《给青年的十二封信》](https://book.douban.com/subject/30352171/)
 - [刘和平](https://zh.wikipedia.org/wiki/刘和平_(剧作家))[《大明王朝1566》](https://book.douban.com/subject/3071976/)
 - [陈丹青](https://zh.wikipedia.org/wiki/陈丹青)[《荒废集》](https://book.douban.com/subject/3333989/)
+- [Margaret Munnerlyn Mitchell](https://en.wikipedia.org/wiki/Margaret_Mitchell)[《飘》](https://book.douban.com/subject/33436187/)
 - [Italo Calvino](https://it.wikipedia.org/wiki/Italo_Calvino)[《树上的男爵》](https://book.douban.com/subject/34431931/)
 - [格非](https://zh.wikipedia.org/wiki/格非)[《江南》三部曲](https://book.douban.com/subject/34461199/)
 - Italo Calvino[《不存在的骑士》](https://book.douban.com/subject/34661992/)
 - [王安忆](https://zh.wikipedia.org/wiki/王安忆)[《长恨歌》](https://book.douban.com/subject/34802814/)
 - Italo Calvino[《分成两半的子爵》](https://book.douban.com/subject/34831995/)
 - [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)[《随机漫步的傻瓜》](https://book.douban.com/subject/34839690/)
+- 王小波[沉默的大多数](https://book.douban.com/subject/34974501/)
 - [费孝通](https://zh.wikipedia.org/wiki/费孝通)[《江村经济》](https://book.douban.com/subject/35216742/)
 - [Gabriel José de la Concordia García Márquez](https://es.wikipedia.org/wiki/Gabriel_García_Márquez)[《霍乱时期的爱情》](https://book.douban.com/subject/35643308/)
 - [钱锺书](https://zh.wikipedia.org/wiki/钱锺书)[《围城》](https://book.douban.com/subject/36102998/)
@@ -36,6 +38,8 @@
 ## 0x02 听
 
 ### 1. 值得一听
+
+- [YouTube/The Good, the Bad and the Ugly - The Danish National Symphony Orchestra (Live)](https://youtu.be/enuOArEfqGo)
 
 ### 2. 值得再听
 
@@ -57,6 +61,7 @@
 - [The Bucket List (2007)](https://movie.douban.com/subject/1867345/)
 - [Revolutionary Road (2008)](https://movie.douban.com/subject/2037012/)
 - [Mary and Max (2009)](https://movie.douban.com/subject/3072124/)
+- [Rick and Morty Season 1 (2013)](https://movie.douban.com/subject/11537954/)
 - [一代宗師 (2013)](https://movie.douban.com/subject/3821067/)
 - [Heidi (2015)](https://movie.douban.com/subject/25958717/)
 - [كفرناحوم (2018)](https://movie.douban.com/subject/30170448/)
