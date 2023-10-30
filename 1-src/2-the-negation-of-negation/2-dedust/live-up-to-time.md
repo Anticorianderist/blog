@@ -8,11 +8,10 @@
 
 - [Helene Hanff](https://en.wikipedia.org/wiki/Helene_Hanff)[《查令十字街84号》](https://book.douban.com/subject/26768309/)
 - [刘震云](https://zh.wikipedia.org/wiki/刘震云)[《一句顶一万句》](https://book.douban.com/subject/26877012/)
-- [王小波](https://zh.wikipedia.org/wiki/王小波)[《红拂夜奔》](https://book.douban.com/subject/27037158/)
-- [钱锺书](https://zh.wikipedia.org/wiki/钱锺书)[《围城》](https://book.douban.com/subject/27070488/)
-- [朱光潜](https://zh.wikipedia.org/wiki/朱光潜)[《给青年的十二封信》](https://book.douban.com/subject/28003156/)
-- [刘和平](https://zh.wikipedia.org/wiki/刘和平_(剧作家))[《大明王朝1566》](https://book.douban.com/subject/3071976/)
+- [王小波](https://zh.wikipedia.org/wiki/王小波)[《红拂夜奔》](https://book.douban.com/subject/27077957/)
 - [萧红](https://zh.wikipedia.org/wiki/萧红)[《呼兰河传》](https://book.douban.com/subject/30227138/)
+- [朱光潜](https://zh.wikipedia.org/wiki/朱光潜)[《给青年的十二封信》](https://book.douban.com/subject/30352171/)
+- [刘和平](https://zh.wikipedia.org/wiki/刘和平_(剧作家))[《大明王朝1566》](https://book.douban.com/subject/3071976/)
 - [陈丹青](https://zh.wikipedia.org/wiki/陈丹青)[《荒废集》](https://book.douban.com/subject/3333989/)
 - [Italo Calvino](https://it.wikipedia.org/wiki/Italo_Calvino)[《树上的男爵》](https://book.douban.com/subject/34431931/)
 - [格非](https://zh.wikipedia.org/wiki/格非)[《江南》三部曲](https://book.douban.com/subject/34461199/)
@@ -22,6 +21,7 @@
 - [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)[《随机漫步的傻瓜》](https://book.douban.com/subject/34839690/)
 - [费孝通](https://zh.wikipedia.org/wiki/费孝通)[《江村经济》](https://book.douban.com/subject/35216742/)
 - [Gabriel José de la Concordia García Márquez](https://es.wikipedia.org/wiki/Gabriel_García_Márquez)[《霍乱时期的爱情》](https://book.douban.com/subject/35643308/)
+- [钱锺书](https://zh.wikipedia.org/wiki/钱锺书)[《围城》](https://book.douban.com/subject/36102998/)
 - [Friedrich August von Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)[《通往奴役之路》](https://book.douban.com/subject/36141170/)
 - [古华](https://zh.wikipedia.org/wiki/古华)[《芙蓉镇》](https://book.douban.com/subject/36243023/)
 - [Ray Huang](https://en.wikipedia.org/wiki/Ray_Huang)[《万历十五年》](https://book.douban.com/subject/36295436/)
@@ -31,9 +31,9 @@
 
 ### 2. 值得再读
 
-- 钱锺书《围城》
 - 格非《江南》三部曲
 - Gabriel José de la Concordia García Márquez《霍乱时期的爱情》
+- 钱锺书《围城》
 
 ## 0x02 听
 
@@ -74,7 +74,7 @@
 
 ### 1. 值得一玩
 
-- [Linelight](https://www.douban.com/game/26994631/)
 - [ゼルダの伝説 ブレス オブ ザ ワイルド](https://www.douban.com/game/26817171/)
+- [Linelight](https://www.douban.com/game/26994631/)
 
 ### 2. 值得再玩
