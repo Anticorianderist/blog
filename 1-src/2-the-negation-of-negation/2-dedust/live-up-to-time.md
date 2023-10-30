@@ -4,8 +4,6 @@
 
 ### 1. 值得一读
 
-> 排名不分先后。下同。
-
 - [Helene Hanff](https://en.wikipedia.org/wiki/Helene_Hanff)[《查令十字街84号》](https://book.douban.com/subject/26768309/)
 - [刘震云](https://zh.wikipedia.org/wiki/刘震云)[《一句顶一万句》](https://book.douban.com/subject/26877012/)
 - [王小波](https://zh.wikipedia.org/wiki/王小波)[《红拂夜奔》](https://book.douban.com/subject/27077957/)
