@@ -2,16 +2,16 @@
 
 ## 0x01 逝者安息
 
-1. [今 敏](http://old.lifeweek.com.cn//2013/0827/42193.shtml)
-2. [齐齐哈尔市第三十四中学体育馆坍塌事故](https://chinadigitaltimes.net/chinese/698645.html)
-3. [冯岩岩](https://github.com/Anticorianderist/blog/blob/main/2-spt/figures/fengyanyan.jpg)
-4. [姚贝娜](https://weibo.com/bellamusic)
-5. [李玟](https://weibo.com/cocolee117)
-6. [微博/红烧土豆叶](https://weibo.com/u/6037696062)
-7. [哔哩哔哩/一食纪](https://www.bilibili.com/video/BV1aS4y187yD/)
-8. [程浩](https://www.zhihu.com/people/cheng-hao-81)
-9. [毛星云](https://www.zhihu.com/people/mao-xing-yun)
-10. [毛洪涛](https://www.zhihu.com/topic/21528860/)
+- [今 敏](http://old.lifeweek.com.cn//2013/0827/42193.shtml)
+- [齐齐哈尔市第三十四中学体育馆坍塌事故](https://chinadigitaltimes.net/chinese/698645.html)
+- [冯岩岩](https://github.com/Anticorianderist/blog/blob/main/2-spt/figures/fengyanyan.jpg)
+- [姚贝娜](https://weibo.com/bellamusic)
+- [李玟](https://weibo.com/cocolee117)
+- [微博/红烧土豆叶](https://weibo.com/u/6037696062)
+- [哔哩哔哩/一食纪](https://www.bilibili.com/video/BV1aS4y187yD/)
+- [程浩](https://www.zhihu.com/people/cheng-hao-81)
+- [毛星云](https://www.zhihu.com/people/mao-xing-yun)
+- [毛洪涛](https://www.zhihu.com/topic/21528860/)
 
 ## 0x02 Do Not Go Gentle into That Good Night
 
@@ -44,9 +44,9 @@
 
 ## 0x03 生者如斯
 
-1. [東京ゴッドファーザーズ (2003)](https://movie.douban.com/subject/1310177/)
-2. [哔哩哔哩/《不被大风吹倒》：莫言写给青年朋友的一封信](https://www.bilibili.com/video/BV1A44y1u7PF/)
-3. [哔哩哔哩/《我不想做这样的人》：来自全国955位初中生的演讲](https://www.bilibili.com/video/BV1CU4y1b7Sx/)
-4. [哔哩哔哩/《如何快速变老》：给所有人的科学变老指南](https://www.bilibili.com/video/BV1Fo4y1L7AU/)
-5. [哔哩哔哩/轻生的学生，家暴的父母，做了老师后我非常崩溃......](https://www.bilibili.com/video/BV1j8411Z7mb/)
-6. [哔哩哔哩/留下来的花，有百般开法【Inmost】](https://www.bilibili.com/video/BV1sZ4y1f7TC/)
+- [東京ゴッドファーザーズ (2003)](https://movie.douban.com/subject/1310177/)
+- [哔哩哔哩/《不被大风吹倒》：莫言写给青年朋友的一封信](https://www.bilibili.com/video/BV1A44y1u7PF/)
+- [哔哩哔哩/《我不想做这样的人》：来自全国955位初中生的演讲](https://www.bilibili.com/video/BV1CU4y1b7Sx/)
+- [哔哩哔哩/《如何快速变老》：给所有人的科学变老指南](https://www.bilibili.com/video/BV1Fo4y1L7AU/)
+- [哔哩哔哩/轻生的学生，家暴的父母，做了老师后我非常崩溃......](https://www.bilibili.com/video/BV1j8411Z7mb/)
+- [哔哩哔哩/留下来的花，有百般开法【Inmost】](https://www.bilibili.com/video/BV1sZ4y1f7TC/)
