@@ -18,7 +18,7 @@
 - [王安忆](https://zh.wikipedia.org/wiki/王安忆)[《长恨歌》](https://book.douban.com/subject/34802814/)
 - Italo Calvino[《分成两半的子爵》](https://book.douban.com/subject/34831995/)
 - [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)[《随机漫步的傻瓜》](https://book.douban.com/subject/34839690/)
-- 王小波[沉默的大多数](https://book.douban.com/subject/34974501/)
+- 王小波[《沉默的大多数》](https://book.douban.com/subject/34974501/)
 - [费孝通](https://zh.wikipedia.org/wiki/费孝通)[《江村经济》](https://book.douban.com/subject/35216742/)
 - [Gabriel José de la Concordia García Márquez](https://es.wikipedia.org/wiki/Gabriel_García_Márquez)[《霍乱时期的爱情》](https://book.douban.com/subject/35643308/)
 - [钱锺书](https://zh.wikipedia.org/wiki/钱锺书)[《围城》](https://book.douban.com/subject/36102998/)
