@@ -44,6 +44,7 @@
 
 ## 0x03 生者如斯
 
+- [朱光潜《悼夏孟刚》](https://book.douban.com/subject/30352171/)
 - [東京ゴッドファーザーズ (2003)](https://movie.douban.com/subject/1310177/)
 - [哔哩哔哩/《不被大风吹倒》：莫言写给青年朋友的一封信](https://www.bilibili.com/video/BV1A44y1u7PF/)
 - [哔哩哔哩/《我不想做这样的人》：来自全国955位初中生的演讲](https://www.bilibili.com/video/BV1CU4y1b7Sx/)
