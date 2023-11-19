@@ -51,3 +51,4 @@
 - [哔哩哔哩/《如何快速变老》：给所有人的科学变老指南](https://www.bilibili.com/video/BV1Fo4y1L7AU/)
 - [哔哩哔哩/轻生的学生，家暴的父母，做了老师后我非常崩溃......](https://www.bilibili.com/video/BV1j8411Z7mb/)
 - [哔哩哔哩/留下来的花，有百般开法【Inmost】](https://www.bilibili.com/video/BV1sZ4y1f7TC/)
+- [一席/比尔·盖茨怎么花钱](https://yixi.tv/#/speech/detail?id=780)
