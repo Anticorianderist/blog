@@ -11,6 +11,7 @@
 - [哔哩哔哩/一食纪](https://www.bilibili.com/video/BV1aS4y187yD/)
 - [程浩](https://www.zhihu.com/people/cheng-hao-81)
 - [毛星云](https://www.zhihu.com/people/mao-xing-yun)
+- [魏则西](https://www.zhihu.com/question/42392347/answer/94900511)
 - [毛洪涛](https://www.zhihu.com/topic/21528860/)
 
 ## 0x02 Do Not Go Gentle into That Good Night
