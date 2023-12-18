@@ -7,6 +7,7 @@
 - [冯岩岩](https://github.com/Anticorianderist/blog/blob/main/2-spt/figures/fengyanyan.jpg)
 - [姚贝娜](https://weibo.com/bellamusic)
 - [李玟](https://weibo.com/cocolee117)
+- [微博/离灯_冬眠mode关闭失败](https://weibo.com/u/2649354465)
 - [微博/红烧土豆叶](https://weibo.com/u/6037696062)
 - [哔哩哔哩/一食纪](https://www.bilibili.com/video/BV1aS4y187yD/)
 - [程浩](https://www.zhihu.com/people/cheng-hao-81)
