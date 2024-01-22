@@ -5,6 +5,7 @@
 - [今 敏](http://old.lifeweek.com.cn//2013/0827/42193.shtml)
 - [齐齐哈尔市第三十四中学体育馆坍塌事故](https://chinadigitaltimes.net/chinese/698645.html)
 - [冯岩岩](https://github.com/Anticorianderist/blog/blob/main/2-spt/figures/fengyanyan.jpg)
+- [河南南阳方城县独树镇砚山铺村英才学校火灾事故](https://weibo.com/2656274875/NCFWguhCl)
 - [姚贝娜](https://weibo.com/bellamusic)
 - [李玟](https://weibo.com/cocolee117)
 - [微博/离灯_冬眠mode关闭失败](https://weibo.com/u/2649354465)
