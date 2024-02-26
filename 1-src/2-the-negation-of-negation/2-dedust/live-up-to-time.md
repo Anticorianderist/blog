@@ -13,7 +13,7 @@
 - [古华](https://zh.wikipedia.org/wiki/古华)
   - [《芙蓉镇》](https://book.douban.com/subject/36243023/)
 - 航宇
-  - [《路遥的时间》](https://book.douban.com/subject/34467854/)
+  - [《路遥的时间》](https://book.douban.com/subject/34467854/)（结合[这篇书评](https://www.bilibili.com/video/BV16T4y1b75s/)）
 - [黄仁宇](https://zh.wikipedia.org/wiki/黄仁宇)
   - [《万历十五年》](https://book.douban.com/subject/36295436/)
 - [刘和平](https://zh.wikipedia.org/wiki/刘和平_(剧作家))
@@ -104,10 +104,12 @@
 ---
 
 - [飲食男女 (1994)](https://movie.douban.com/subject/1291818/)
+- [無間道 (2002)](https://movie.douban.com/subject/1307914/)
 - [一代宗師 (2013)](https://movie.douban.com/subject/3821067/)
 
 ---
 
+- [The Godfather (1972)](https://movie.douban.com/subject/1291841/)
 - [Once Upon a Time in America (1984)](https://movie.douban.com/subject/1292262/)
 - [Dead Poets Society (1989)](https://movie.douban.com/subject/1291548/)
 - [Scent of a Woman (1992)](https://movie.douban.com/subject/1298624/)
@@ -118,6 +120,7 @@
 - [Mary and Max (2009)](https://movie.douban.com/subject/3072124/)
 - [Rick and Morty Season 1 (2013)](https://movie.douban.com/subject/11537954/)
 - [Three Billboards Outside Ebbing, Missouri (2017)](https://movie.douban.com/subject/26611804/)
+- [Bohemian Rhapsody (2018)](https://movie.douban.com/subject/5300054/)
 
 ---
 
@@ -152,6 +155,7 @@
 
 ### 1. 值得一玩
 
+- [Monument Valley (2014)](https://www.douban.com/game/25865152/)
 - [Linelight (2017)](https://www.douban.com/game/26994631/)
 
 ---
