@@ -16,6 +16,7 @@
 - [魏则西](https://www.zhihu.com/question/42392347/answer/94900511)
 - [曹丽萍](https://www.zhihu.com/question/646920542)
 - [毛洪涛](https://www.zhihu.com/topic/21528860/)
+- [江绪林](https://zh.wikipedia.org/wiki/江绪林)
 
 ## 0x02 Do Not Go Gentle into That Good Night
 
@@ -48,6 +49,7 @@
 
 ## 0x03 生者如斯
 
+- [刘擎《追忆与启迪——江绪林博士告别仪式的悼词》](https://weibo.com/ttarticle/p/show?id=2309404641589166473326)
 - [朱光潜《悼夏孟刚》](https://book.douban.com/subject/30352171/)
 - [東京ゴッドファーザーズ (2003)](https://movie.douban.com/subject/1310177/)
 - [哔哩哔哩/《不被大风吹倒》：莫言写给青年朋友的一封信](https://www.bilibili.com/video/BV1A44y1u7PF/)
