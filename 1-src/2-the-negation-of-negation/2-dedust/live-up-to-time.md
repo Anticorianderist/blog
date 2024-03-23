@@ -59,6 +59,10 @@
   - [《飘》](https://book.douban.com/subject/33436187/)
 - [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
   - [《随机漫步的傻瓜》](https://book.douban.com/subject/34839690/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+  - [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith)
+  - [Herodotus](https://en.wikipedia.org/wiki/Herodotus)
+  - [John Amos Comenius](https://en.wikipedia.org/wiki/John_Amos_Comenius)
 - [Reddit](https://www.reddit.com/)
   - [r/Breath_of_the_Wild/The Story of Corey Bunnell](https://www.reddit.com/r/Breath_of_the_Wild/comments/agu015/the_story_of_corey_bunnell_botw_wildlife/)
 
