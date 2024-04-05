@@ -111,6 +111,7 @@
 - [千と千尋の神隠し (2001)](https://movie.douban.com/subject/1291561/)
 - [千年女優 (2001)](https://movie.douban.com/subject/1307394/)
 - [東京ゴッドファーザーズ (2003)](https://movie.douban.com/subject/1310177/)
+- [君たちはどう生きるか (2023)](https://movie.douban.com/subject/26925611/)：最温柔且勇敢的生死观（2024-04-06）。
 
 #### E. deu
 
