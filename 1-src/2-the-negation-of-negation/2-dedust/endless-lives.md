@@ -58,3 +58,4 @@
 - [哔哩哔哩/轻生的学生，家暴的父母，做了老师后我非常崩溃......](https://www.bilibili.com/video/BV1j8411Z7mb/)
 - [哔哩哔哩/留下来的花，有百般开法【Inmost】](https://www.bilibili.com/video/BV1sZ4y1f7TC/)
 - [一席/比尔·盖茨怎么花钱](https://yixi.tv/#/speech/detail?id=780)
+- [君たちはどう生きるか (2023)](https://movie.douban.com/subject/26925611/)
