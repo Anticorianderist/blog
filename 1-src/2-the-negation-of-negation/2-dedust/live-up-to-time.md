@@ -80,45 +80,74 @@
 
 #### A. zho
 
+- [囍宴 (1993)](https://movie.douban.com/subject/1303037/)
 - [霸王别姬 (1993)](https://movie.douban.com/subject/1291546/)
 - [飲食男女 (1994)](https://movie.douban.com/subject/1291818/)
+- [虹猫蓝兔七侠传 (2006)](https://movie.douban.com/subject/3204594/)
+- [秦时明月之百步飞剑 (2007)](https://movie.douban.com/subject/3074717/)
+- [大明王朝1566 (2007)](https://movie.douban.com/subject/2210001/)
+- [神厨小福贵 (2007)](https://movie.douban.com/subject/3025311/)
+- [空山鸟语 (2014)](https://movie.douban.com/subject/25884755/)
 - [哔哩哔哩](https://www.bilibili.com/)/[原野郎中](https://space.bilibili.com/27717433)/[留下来的花，有百般开法【Inmost】](https://www.bilibili.com/video/BV1sZ4y1f7TC/)
 - YouTube/[柴静 Chai Jing](https://www.youtube.com/@chaijing2023)/[【柴静对话朱令父母/办案警察录音首次披露】“一个国家不能靠人治，还是要靠法治才能发展。”](https://youtu.be/j0-KOI5OpSM)
 
 #### B. yue
 
+- [九品芝麻官 (1994)](https://movie.douban.com/subject/1297518/)
 - [無間道 (2002)](https://movie.douban.com/subject/1307914/)
 - [一代宗師 (2013)](https://movie.douban.com/subject/3821067/)
 
 #### C. eng
 
+- [Gone with the Wind (1939)](https://movie.douban.com/subject/1300267/)
 - [The Godfather (1972)](https://movie.douban.com/subject/1291841/)
 - [Once Upon a Time in America (1984)](https://movie.douban.com/subject/1292262/)
 - [Dead Poets Society (1989)](https://movie.douban.com/subject/1291548/)
+- [Home Alone (1990)](https://movie.douban.com/subject/1293088/)
 - [Scent of a Woman (1992)](https://movie.douban.com/subject/1298624/)
-- [Sideways (2004)](https://movie.douban.com/subject/1291833/)
-- [Perfume: The Story of a Murderer (2006)](https://movie.douban.com/subject/1760622/)
+- [The Nightmare Before Christmas (1993)](https://movie.douban.com/subject/1297131/)
+- [Sleepless in Seattle (1993)](https://movie.douban.com/subject/1298128/)
+- [Pulp Fiction (1994)](https://movie.douban.com/subject/1291832/)
+- [The Shawshank Redemption (1994)](https://movie.douban.com/subject/1292052/)
+- [Friends Season 1 (1994)](https://movie.douban.com/subject/1393859/)：曾陪我度过三点一线的岁月；或许它也能陪你（2024-04-14）。
+- [Jackie Chan Adventures Season 1 (2000)](https://movie.douban.com/subject/1933857/)
+- [Ice Age (2002)](https://movie.douban.com/subject/1291578/)
+- [The Pianist (2002)](https://movie.douban.com/subject/1296736/)
+- [Sideways (2004)](https://movie.douban.com/subject/1291833/)：失败的人应该喝红的，而不是白的（2024-04-14）。
+- [Planet Earth Season 1 (2006)](https://movie.douban.com/subject/1871906/)
+- [Perfume: The Story of a Murderer (2006)](https://movie.douban.com/subject/1760622/)：打开艺术观（2024-04-14）。
+- [Ratatouille (2007)](https://movie.douban.com/subject/1793491/)
 - [The Bucket List (2007)](https://movie.douban.com/subject/1867345/)
+- [Slumdog Millionaire (2008)](https://movie.douban.com/subject/2209573/)
 - [Revolutionary Road (2008)](https://movie.douban.com/subject/2037012/)
 - [Mary and Max (2009)](https://movie.douban.com/subject/3072124/)
-- [Rick and Morty Season 1 (2013)](https://movie.douban.com/subject/11537954/)
+- [Flipped (2010)](https://movie.douban.com/subject/3319755/)
+- [Frozen (2013)](https://movie.douban.com/subject/4202982/)
+- [Rick and Morty Season 1 (2013)](https://movie.douban.com/subject/11537954/)：迄今为止信息密度最大的剧集（2024-04-14）。
+- [Inside Out (2015)](https://movie.douban.com/subject/10533913/)
 - [Three Billboards Outside Ebbing, Missouri (2017)](https://movie.douban.com/subject/26611804/)
 - [Bohemian Rhapsody (2018)](https://movie.douban.com/subject/5300054/)
+- [Soul (2020)](https://movie.douban.com/subject/24733428/)
 
 #### D. jpn
 
 - [Love Letter (1995)](https://movie.douban.com/subject/1292220/)
+- [ウルトラマンティガ (1996)](https://movie.douban.com/subject/2264567/)
 - [千と千尋の神隠し (2001)](https://movie.douban.com/subject/1291561/)
 - [千年女優 (2001)](https://movie.douban.com/subject/1307394/)
 - [東京ゴッドファーザーズ (2003)](https://movie.douban.com/subject/1310177/)
 - [君たちはどう生きるか (2023)](https://movie.douban.com/subject/26925611/)：最温柔且勇敢的生死观（2024-04-06）。
 
-#### E. deu
+#### E. ita
+
+- [Per un pugno di dollari (1964)](https://movie.douban.com/subject/1302522/)
+
+#### F. deu
 
 - [Das Leben der Anderen (2006)](https://movie.douban.com/subject/1900841/)
 - [Heidi (2015)](https://movie.douban.com/subject/25958717/)
 
-#### F. ara
+#### G. ara
 
 - [كفرناحوم (2018)](https://movie.douban.com/subject/30170448/)
 
