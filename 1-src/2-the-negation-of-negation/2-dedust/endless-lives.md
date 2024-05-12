@@ -17,6 +17,7 @@
 - 2023-10-17：[冯岩岩](https://github.com/Anticorianderist/blog/blob/main/2-spt/figures/fengyanyan.jpg)
 - 2024-01-19：[河南省南阳市方城县独树镇砚山铺村英才学校火灾事故](https://weibo.com/2656274875/NCFWguhCl)
 - 2024-02-23：[曹丽萍](https://www.zhihu.com/question/646920542)
+- 2024-05-10：[江苏省南通市大巴与渣土车碰撞事故](https://www.zaobao.com/realtime/china/story20240512-3650063)
 
 ## 0x02 Do Not Go Gentle into That Good Night
 
